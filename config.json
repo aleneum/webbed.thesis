@@ -1,4 +1,7 @@
 {
+    "defaultScaling": [
+        0.1515, 0.106, -0.149, -0.1075
+    ],
     "targetDefinitions": [
       "AlARCo.xml"
     ],
