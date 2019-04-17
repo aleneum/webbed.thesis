@@ -1,0 +1,17 @@
+{
+    "targetDefinitions": [
+      "AlARCo.xml"
+    ],
+    "targets": {
+      "page135": {
+        "url": "Pro-Brix.html?page=135&bib=00_thesis.json"
+      },
+      "page138": {
+        "url": "http://gitlab.com"
+      },
+      "page160": {
+        "url": "Pro-Kinect.html?page=160&bib=bib.json"
+      }
+    }
+  }
+  
